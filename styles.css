@@ -1,36 +1,11 @@
 body {
   background-image: url("triangle-mosaic.png");
 }
-
-h1 {
-  background-color: #000000;
-  color: #ffffff;
-  text-align: center;
-  font-family: Arial;
-  font-size: 20px;
-  width: 300px;
-}
-h2 {
-  background-color: #9fdfcd;
-  width: 300px;
-  color: #000000;
-  font-family: times new roman;
+blockquote {
+  background-color: #f8f8f8;
   font-size: 14px;
-}
-li {
-  background-color: #9fdfcd;
-  border: 1px dotted #000000;
-  width: 300px;
   color: #000000;
-  font-family: times new roman;
-}
-a:link {
-  color: #000000;
-}
-a:visited {
-  color: #000000;
-}
-a:hover {
-  color:#ffffff;
-  font-style: italic;
+  width: 500px;
+  padding: 8px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
