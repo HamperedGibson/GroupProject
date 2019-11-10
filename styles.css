@@ -5,6 +5,9 @@ blockquote {
   background-color: #f8f8f8;
   font-size: 14px;
   color: #000000;
+  border-left-width: 5px;
+  border-left-style: double;
+  border-left-color: black;
   width: 500px;
   padding: 8px;
   font-family: Georgia, 'Times New Roman', Times, serif;
