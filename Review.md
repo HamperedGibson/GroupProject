@@ -1,21 +1,21 @@
 # *Group Work Review*
-## Interest of content [5/10] - Good
+## Interest of content [6/10] - Very Good
 
 There's a good range of niche topics which are interesting to learn about. A little more detail would have been nice, but I think the choice of subject matter was sufficiently novel to be engaging on its own. 
     
-##  Consistency and quality of visual presentation [4/10] - Sound
+##  Consistency and quality of visual presentation [5/10] - Good
 
 The visual presentation is largely consistent, with a few minor deviations - colour of navbar, etc. - across pages by different authors. The quality is also slightly variable, but tailored well to quantity of subject matter present.
     
-##  Quality of written presentation [6/10] - Very good
+##  Quality of written presentation [7/10] - Excellent
 
 Very few SPaG errors, and well-written sentences in general. Only one typo was found across the three pages.
     
-## Validity of HTML [5/10] - Good
+## Validity of HTML [6/10] - Very Good
 
 No console errors, and the source code generally looks sound and well-formed. Indentation and formatting are all correct, and comments are used correctly to identify the various sections of the documents. There are a small number of features which do not seem to work as intended - a search bar and one page's navigation system - but the website is functional overall.
     
-##  Evidence of collaboration [6/10] - Very good
+##  Evidence of collaboration [7/10] - Excellent
 
 ###   Author info not written by author
 The author information was written by the other members of the group, as evidenced by the git repo history.
