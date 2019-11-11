@@ -1,3 +1,3 @@
 <!-- Footer -->
-<div style="color: #ffffff;background-color:#000000;font-size:10px; font-family:arial;"><center>Editted by: name<a href="LINKED IN URL"> LINKEDIN</a></center></div>
+<div style="color: #ffffff;background-color:#000000;font-size:10px; font-family:arial;"><center>Edited by: name<a href="LINKED IN URL"> LINKEDIN</a></center></div>
 <!-- Footer -->
